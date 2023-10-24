@@ -9,4 +9,4 @@ Note:
 The image files are all in zip files within this repository. 
 When downloading and running please unzip the files and place them in the ./data directory , and make sure to combine p1 and p2 into a single folder (preferably called pokemon) alongside digimon in order for this to work.
 
-![Pokemon and Digimon Classifier]([http://url/to/img.png](https://miro.medium.com/v2/resize:fit:1358/1*Dn91a1lhC92jAArVTFLvcg.png)https://miro.medium.com/v2/resize:fit:1358/1*Dn91a1lhC92jAArVTFLvcg.png)
+![Pokemon and Digimon Classifier]([https://miro.medium.com/v2/resize:fit:1358/1*Dn91a1lhC92jAArVTFLvcg.png])
